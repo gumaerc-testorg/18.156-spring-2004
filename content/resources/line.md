@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-156-differential-analysis-spring-2004/0637aeed31d22f255baf17aa99e32dcd_line.jpg
+file: /media/courses/18-156-differential-analysis-spring-2004/0637aeed31d22f255baf17aa99e32dcd_line.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Syllabus
+parent_type: CourseSection
 resourcetype: Image
 title: line.jpg
 uid: 0637aeed-31d2-2f25-5baf-17aa99e32dcd

@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 42937c63-1618-c895-e0ab-347b09d3b810
 ---
@@ -71,7 +74,7 @@ The Poisson Kernel and Poisson Integral
   
 Solution of Dirichlet Problem in Balls for Continuous Boundary Data  
   
-Continuous + Mean Value Property <-> Harmonic
+Continuous + Mean Value Property \<-> Harmonic
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/lec2))
@@ -167,7 +170,7 @@ Comparison Principle for Nonlinear Equations
 8
 {{< tdclose >}}
 {{< tdopen >}}
-If Delta u in L^{infty}, then u in C^{1,alpha}, any 0 < alpha < 1  
+If Delta u in L^{infty}, then u in C^{1,alpha}, any 0 \< alpha \< 1  
   
 If Delta u in L^{p}, p > n, then u in C^{1,alpha}, p = n/(1 - alpha)
 {{< tdclose >}}
@@ -183,7 +186,7 @@ If Delta u in L^{p}, p > n, then u in C^{1,alpha}, p = n/(1 - alpha)
 {{< tdopen >}}
 If Delta u in C^{alpha}, alpha > 0, then u in C^{2}  
   
-Moreover, if alpha < 1, then u in C^{2,alpha} (Proof to be completed next lecture)
+Moreover, if alpha \< 1, then u in C^{2,alpha} (Proof to be completed next lecture)
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/lec9))
@@ -325,7 +328,7 @@ Sobolev Spaces
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Sobolev Imbedding Theorem p < n  
+Sobolev Imbedding Theorem p \< n  
   
 Morrey's Inequality
 {{< tdclose >}}
@@ -417,7 +420,7 @@ W^{2,2} Estimate for N.P.
 24
 {{< tdclose >}}
 {{< tdopen >}}
-W^{2,p} Estimate for N.P., 1 < p < infty  
+W^{2,p} Estimate for N.P., 1 \< p \< infty  
   
 W^{2,p} Estimate for Operators L with Continuous Leading Order Coefficients
 {{< tdclose >}}
