@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 3b702b0b-1c93-b5c9-ac2c-f834d3e45255
 resourcetype: Image
 title: equation.jpg
 uid: b378fc13-b341-5685-6141-8c2c7af68856
