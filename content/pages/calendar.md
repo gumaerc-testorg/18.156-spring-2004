@@ -1,9 +1,12 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: 014e8378-cf68-8275-5d2d-5239741c5c85
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}

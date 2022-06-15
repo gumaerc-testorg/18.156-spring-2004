@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Image of linear equation using Greek characters.
-file: /media/courses/18-156-differential-analysis-spring-2004/b378fc13b341568561418c2c7af68856_equation.jpg
+file: /courses/18-156-differential-analysis-spring-2004/b378fc13b341568561418c2c7af68856_equation.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -15,4 +15,8 @@ parent_uid: 3b702b0b-1c93-b5c9-ac2c-f834d3e45255
 resourcetype: Image
 title: equation.jpg
 uid: b378fc13-b341-5685-6141-8c2c7af68856
+video_metadata:
+  youtube_id: null
 ---
+Image of linear equation using Greek characters.
+
