@@ -8,6 +8,7 @@ file: /courses/18-156-differential-analysis-spring-2004/8d56a066608a449aca2431e0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
 ---
 Lecture topics:
 Characterization of W^{1,p} in Terms of Difference Quotients (cont.); Interior W^{2,2} Estimates for W^{1,2}_0 Solutions of Lu = f in L^2
-

@@ -10,6 +10,7 @@ file: /courses/18-156-differential-analysis-spring-2004/23ec7373e584754f3ddf0157
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -22,4 +23,3 @@ video_metadata:
 ---
 Lecture topics:
 Continuity Method; Can Solve Dirichlet Problem for General L Provided can Solve for Laplacian; Corollary: Solution of C^{2, alpha} Dirichlet Problem in Balls for General L; Solution of Dirichlet Problem in C^{2,alpha} for Continuous Boundary Values, in Balls.
-

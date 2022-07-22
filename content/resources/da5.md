@@ -8,6 +8,7 @@ file: /courses/18-156-differential-analysis-spring-2004/001210200bdd9ab37d9c20bf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
 ---
 Lecture topics:
 Elliptic Regularity: If f and Coefficients of L in C^{k,alpha}, Lu = f, then u in C^{k+2,alpha}; C^{2,alpha} Regularity up to the Boundary
-

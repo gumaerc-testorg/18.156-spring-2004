@@ -9,6 +9,7 @@ file: /courses/18-156-differential-analysis-spring-2004/7bc7bb25dccb29a54eff57f0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
 ---
 Lecture topics:
 Definition of Green's Function for General Domains; Green's Function for a Ball; The Poisson Kernel and Poisson Integral; Solution of Dirichlet Problem in Balls for Continuous Boundary Data; Continuous + Mean Value Property <-> Harmonic.
-

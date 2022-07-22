@@ -10,6 +10,7 @@ file: /courses/18-156-differential-analysis-spring-2004/48ab6a43abc62ec795922892
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -22,4 +23,3 @@ video_metadata:
 ---
 Lecture topics:
 Schwartz Reflection Reviewed; Green's Function for Upper Half Space Reviewed; C^{2,alpha} Boundary Estimate for Poisson's Equation for Flat Boundary Portion; Global C^{2,alpha} Estimate for Poisson's Equation in a Ball for Zero Boundary Data; C^{2,alpha} Regularity of Dirichlet Problem in a Ball for C^{2,alpha} Boundary Data.
-

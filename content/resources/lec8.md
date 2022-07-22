@@ -8,6 +8,7 @@ file: /courses/18-156-differential-analysis-spring-2004/40da295b182c40f92fe445a3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
 ---
 Lecture topics:
 If Delta u in L^{infty}, then u in C^{1,alpha}, any 0 < alpha < 1; If Delta u in L^{p}, p > n, then u in C^{1,alpha}, p = n/(1 - alpha).
-

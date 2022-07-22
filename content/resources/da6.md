@@ -9,6 +9,7 @@ file: /courses/18-156-differential-analysis-spring-2004/76ee4a3520fb097fb21541d8
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
 ---
 Lecture topics:
 C^{k,alpha} Regularity up to the Boundary; Hilbert Spaces and Riesz Representation Theorem; Weak Solution of Dirichlet Problem for Laplacian in W^{1,2}_0; Weak Derivatives; Sobolev Spaces.
-

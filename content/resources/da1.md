@@ -9,6 +9,7 @@ file: /courses/18-156-differential-analysis-spring-2004/f47f821c3e7a63123b328a6a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
 ---
 Lecture topics:
 Global C^{2,alpha} Solution of Poisson's Equation Delta u = f in C^{alpha}, for C^{2,alpha} Boundary Values in Balls; Constant Coefficient Operators; Interpolation between H?lder Norms
-

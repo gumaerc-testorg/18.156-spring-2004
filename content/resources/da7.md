@@ -7,6 +7,7 @@ file: /courses/18-156-differential-analysis-spring-2004/a56f4be6b3a098c79de30ba6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
 ---
 Lecture topics:
 Sobolev Imbedding Theorem p < n; Morrey's Inequality.
-
