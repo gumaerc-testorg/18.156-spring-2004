@@ -1,7 +1,13 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 7abb29aa-0ba7-cc50-7296-6bce29638b82
+video_metadata:
+  youtube_id: null
 ---
 
 There are only two assignments for this course, due in the lecture sessions listed in the table below. They are from the following two texts:
