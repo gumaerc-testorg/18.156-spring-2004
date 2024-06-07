@@ -4,6 +4,7 @@ description: 'Lecture topics:
 
   Global Schauder Estimate; Banach Spaces and Contraction Mapping Principle'
 file: /courses/18-156-differential-analysis-spring-2004/ce79c61af06dfa75f3bc665ffa43c2ef_da3.pdf
+file_size: 63164
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -7,6 +7,7 @@ description: 'Lecture topics:
   General L; Solution of Dirichlet Problem in C^{2,alpha} for Continuous Boundary
   Values, in Balls.'
 file: /courses/18-156-differential-analysis-spring-2004/23ec7373e584754f3ddf0157ac29d664_da4.pdf
+file_size: 68876
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -6,6 +6,7 @@ description: 'Lecture topics:
   for Poisson''s Equation; Boundary Estimate on Newtonian Potential: C^{2,alpha} Estimate
   up to the Boundary for Domain with Flat Boundary Portion.'
 file: /courses/18-156-differential-analysis-spring-2004/1ba59b1578ea4d3970cac1cfe41c143f_lec10.pdf
+file_size: 174408
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
