@@ -6,6 +6,7 @@ description: 'Lecture topics:
   Theorem; Weak Solution of Dirichlet Problem for Laplacian in W^{1,2}_0; Weak Derivatives;
   Sobolev Spaces.'
 file: /courses/18-156-differential-analysis-spring-2004/76ee4a3520fb097fb21541d81f09e728_da6.pdf
+file_size: 86380
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

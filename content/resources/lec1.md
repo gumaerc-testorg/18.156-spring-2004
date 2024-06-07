@@ -6,6 +6,7 @@ description: 'Lecture topics:
   Inequality; Derivative Estimates for Harmonic Functions; Green''s Representation
   Formula.'
 file: /courses/18-156-differential-analysis-spring-2004/2d5342d2f35b2d991e8a284c5ab1e325_lec1.pdf
+file_size: 173902
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -5,6 +5,7 @@ description: 'Lecture topics:
   Weak Solutions; Further Properties of Green''s Functions; Weyl''s Lemma: Regularity
   of Weakly Harmonic Functions.'
 file: /courses/18-156-differential-analysis-spring-2004/7b5d6c44500b8ad52aad662a2517c38d_lec3.pdf
+file_size: 165234
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
