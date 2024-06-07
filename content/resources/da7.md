@@ -4,6 +4,7 @@ description: 'Lecture topics:
 
   Sobolev Imbedding Theorem p < n; Morrey''s Inequality.'
 file: /courses/18-156-differential-analysis-spring-2004/a56f4be6b3a098c79de30ba696e24c94_da7.pdf
+file_size: 92484
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -6,6 +6,7 @@ description: 'Lecture topics:
   of Harmonic Functions; Kelvin II: Poission Integral Formula Proof; Kelvin III: Conformal
   Geometry Proof.'
 file: /courses/18-156-differential-analysis-spring-2004/8b0e9ee62e33a1185c5e99b363ec007c_lec5.pdf
+file_size: 190211
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

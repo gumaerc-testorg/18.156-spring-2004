@@ -4,6 +4,7 @@ description: 'Lecture topic:
 
   Interior Schauder Estimate'
 file: /courses/18-156-differential-analysis-spring-2004/8987b58961ffbb10995f784c5b9eb36f_da2.pdf
+file_size: 72947
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
