@@ -4,7 +4,7 @@ description: 'Lecture topics:
 
   Quasilinear Equations (Minimal Surface Equation); Fully Nonlinear Equations (Monge-Ampere
   Equation); Comparison Principle for Nonlinear Equations.'
-file: /courses/18-156-differential-analysis-spring-2004/900a92da0065d548b35b172b8d4109a5_lec7.pdf
+file: /ol-ocw-studio-app/courses/18-156-differential-analysis-spring-2004/900a92da0065d548b35b172b8d4109a5_lec7.pdf
 file_size: 203349
 file_type: application/pdf
 learning_resource_types:
