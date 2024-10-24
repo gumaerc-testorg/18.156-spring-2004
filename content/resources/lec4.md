@@ -4,7 +4,7 @@ description: 'Lecture topics:
 
   A Removable Singularity Theorem; Laplacian in General Coordinate Systems; Asymptotic
   Expansions.'
-file: /courses/18-156-differential-analysis-spring-2004/2b09fee8b8ddeca30c93dbdf5682c679_lec4.pdf
+file: /ol-ocw-studio-app/courses/18-156-differential-analysis-spring-2004/2b09fee8b8ddeca30c93dbdf5682c679_lec4.pdf
 file_size: 166142
 file_type: application/pdf
 learning_resource_types:
