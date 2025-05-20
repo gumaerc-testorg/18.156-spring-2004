@@ -4,7 +4,7 @@ description: 'Lecture topic:
 
   Our motivation for this last lecture in the course is to show a result using our
   regularity theory which is otherwise unprovable using classical techniques.'
-file: /ol-ocw-studio-app/courses/18-156-differential-analysis-spring-2004/3794d26f9908ed58eb1c719db602460c_da13andlast.pdf
+file: /courses/18-156-differential-analysis-spring-2004/3794d26f9908ed58eb1c719db602460c_da13andlast.pdf
 file_size: 97829
 file_type: application/pdf
 learning_resource_types:
