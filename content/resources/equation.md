@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Image of linear equation using Greek characters.
-file: /ol-ocw-studio-app/courses/18-156-differential-analysis-spring-2004/b378fc13b341568561418c2c7af68856_equation.jpg
+file: /courses/18-156-differential-analysis-spring-2004/b378fc13b341568561418c2c7af68856_equation.jpg
 file_size: 10891
 file_type: image/jpeg
 image_metadata:
