@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/18-156-differential-analysis-spring-2004/0637aeed31d22f255baf17aa99e32dcd_line.jpg
+file: /courses/18-156-differential-analysis-spring-2004/0637aeed31d22f255baf17aa99e32dcd_line.jpg
 file_size: 19492
 file_type: image/jpeg
 image_metadata:
