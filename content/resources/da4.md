@@ -6,7 +6,7 @@ description: 'Lecture topics:
   for Laplacian; Corollary: Solution of C^{2, alpha} Dirichlet Problem in Balls for
   General L; Solution of Dirichlet Problem in C^{2,alpha} for Continuous Boundary
   Values, in Balls.'
-file: /courses/18-156-differential-analysis-spring-2004/23ec7373e584754f3ddf0157ac29d664_da4.pdf
+file: /ol-ocw-studio-app/courses/18-156-differential-analysis-spring-2004/23ec7373e584754f3ddf0157ac29d664_da4.pdf
 file_size: 68876
 file_type: application/pdf
 learning_resource_types:
