@@ -6,7 +6,7 @@ description: 'Lecture topics:
   Boundary Estimate for Poisson''s Equation for Flat Boundary Portion; Global C^{2,alpha}
   Estimate for Poisson''s Equation in a Ball for Zero Boundary Data; C^{2,alpha} Regularity
   of Dirichlet Problem in a Ball for C^{2,alpha} Boundary Data.'
-file: /courses/18-156-differential-analysis-spring-2004/48ab6a43abc62ec795922892157b5cb9_lec11.pdf
+file: /ol-ocw-studio-app/courses/18-156-differential-analysis-spring-2004/48ab6a43abc62ec795922892157b5cb9_lec11.pdf
 file_size: 188831
 file_type: application/pdf
 learning_resource_types:
